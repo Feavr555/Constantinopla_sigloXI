@@ -1,0 +1,38 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Marco de Referencia}{1}{}%
+\contentsline {section}{\numberline {2}Introducción}{2}{}%
+\contentsline {section}{\numberline {3}Capítulo 1: Filosofía Bizantina}{3}{}%
+\contentsline {subsection}{\numberline {3.1}La Mística}{3}{}%
+\contentsline {subsubsection}{\numberline {3.1.1}San Simeón, el nuevo teologo}{3}{}%
+\contentsline {subsubsection}{\numberline {3.1.2}Calixto Kataphigiotis}{3}{}%
+\contentsline {subsection}{\numberline {3.2}La Moral}{3}{}%
+\contentsline {subsubsection}{\numberline {3.2.1}Cecaumeno}{3}{}%
+\contentsline {subsubsection}{\numberline {3.2.2}Nikoulitzas}{3}{}%
+\contentsline {subsubsection}{\numberline {3.2.3}Teofilacto de Bulgaria}{3}{}%
+\contentsline {subsubsection}{\numberline {3.2.4}Neoplatonismo}{3}{}%
+\contentsline {section}{\numberline {4}Capítulo 2: Cultura}{4}{}%
+\contentsline {subsection}{\numberline {4.1}}{4}{}%
+\contentsline {section}{\numberline {5}Capítulo 3: Educación}{5}{}%
+\contentsline {subsection}{\numberline {5.1}Miguel Psellos}{5}{}%
+\contentsline {subsubsection}{\numberline {5.1.1}Presentación}{5}{}%
+\contentsline {subsubsection}{\numberline {5.1.2}Visión Pedagógica}{5}{}%
+\babel@toc {greek}{}\relax 
+\babel@toc {spanish}{}\relax 
+\contentsline {subsubsection}{\numberline {5.1.3}Programa}{6}{}%
+\contentsline {subsubsection}{\numberline {5.1.4}Retórica}{7}{}%
+\contentsline {subsubsection}{\numberline {5.1.5}Quadrivium}{8}{}%
+\contentsline {subsubsection}{\numberline {5.1.6}Filosofía}{8}{}%
+\contentsline {subsubsection}{\numberline {5.1.7}Metafísica}{9}{}%
+\contentsline {subsection}{\numberline {5.2}Ana y Alejo Comneno}{9}{}%
+\contentsline {section}{\numberline {6}Capítulo 4: Salud}{10}{}%
+\contentsline {subsection}{\numberline {6.1}Sistema}{10}{}%
+\contentsline {subsection}{\numberline {6.2}Edificios}{10}{}%
+\contentsline {section}{\numberline {7}Capítulo 5: Relaciones internacionales}{11}{}%
+\contentsline {subsection}{\numberline {7.1}Relaciones con Italia}{11}{}%
+\contentsline {subsection}{\numberline {7.2}La querella de las envestiduras}{13}{}%
+\contentsline {subsection}{\numberline {7.3}Las tribus del norte del Danuvio}{13}{}%
+\contentsline {subsection}{\numberline {7.4}La primera cruzada}{13}{}%
+\contentsline {section}{\numberline {8}Conclusión}{14}{}%
+\contentsline {subsection}{\numberline {8.1}Conclusión}{14}{}%
+\contentsline {section}{\numberline {9}Bibliografía}{15}{}%
+\contentsline {section}{Referencias}{15}{}%

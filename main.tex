@@ -1,0 +1,86 @@
+\documentclass[a4paper,13pt,titlepage,oneside]{article}
+\usepackage[greek,spanish]{babel}
+\usepackage{setspace}
+\usepackage[utf8]{inputenc}
+\usepackage{times}
+\usepackage{graphicx}
+\usepackage{apacite}
+\usepackage{csquotes}
+\usepackage[T1]{fontenc}
+\usepackage{anyfontsize}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+
+%\fancyhf{}
+%\lhead[\leftmark]{Marco Debiasi}
+%\rhead[Constantinopla en el siglo XI]{\rightmark}
+%\lfoot[\thepage]{}
+%\rfoot[]{\thepage} 
+
+\bibliographystyle{apacite}
+
+
+%\title{Constantinopla en el siglo XI}
+%\author{Marco Patricio Debiasi}
+%\date{\today}
+%\pagestyle{myheadings}
+%\markright{Marco P. Debiasi}
+
+\begin{document}
+	\begin{titlepage}
+	\centering{\fontsize{40pt}{48pt}
+	\selectfont Constantinopla en el siglo XI \par}
+	\vspace{1.5cm}
+
+	\centering{\fontsize{22pt}{20pt}\selectfont\includegraphics[width=0.7\linewidth]{ico.png}}
+
+	\fontsize{22pt}{20pt}\selectfont Marco Patricio Debiasi\par
+	\vspace{1cm}
+	\fontsize{22pt}{10pt}\selectfont Profesorado de Historia\par
+	\end{titlepage}
+\spacing{1.5}
+
+
+\newpage
+
+\section{Marco de Referencia}
+\input{marco}
+\newpage
+
+\section{Introducción}
+\input{introduccion}
+\newpage
+
+\section{Capítulo 1: Filosofía Bizantina}
+\input{filosofia}
+\newpage
+
+\section{Capítulo 2: Cultura}
+\input{cultura}
+\newpage
+
+\section{Capítulo 3: Educación}
+\input{educacion}
+\newpage
+
+\section{Capítulo 4: Salud}
+\input{salud}
+\newpage
+
+\section{Capítulo 5: Relaciones internacionales}
+\input{politica}
+\newpage
+
+\section{Conclusión}
+\input{conclusion}
+\newpage
+
+\section{Bibliografía}
+\bibliography{biblio}
+\newpage
+
+\setstretch{2}
+\tableofcontents
+
+\end{document}
+

@@ -1,0 +1,74 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Comnena%
+}{%
+Comnena%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+alexiadaVI}
+\APACinsertmetastar {%
+alexiadaVI}%
+\begin{APACrefauthors}%
+Comnena, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2016}.
+\newblock
+\APACrefbtitle {La Alexiada} {La alexiada}\ (\BVOL~VI).
+\newblock
+\APACaddressPublisher{Barcelona}{Ático de los libros}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Crowley%
+}{%
+Crowley%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+venecia}
+\APACinsertmetastar {%
+venecia}%
+\begin{APACrefauthors}%
+Crowley, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2016}.
+\newblock
+\APACrefbtitle {Venecia: Ciudad de fortuna, auge y caída del imperio naval
+  veneciano} {Venecia: Ciudad de fortuna, auge y caída del imperio naval
+  veneciano}.
+\newblock
+\APACaddressPublisher{Barcelona}{Ático de los libros}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Tatakis%
+}{%
+Tatakis%
+}{%
+{\protect \APACyear {1952}}%
+}]{%
+filosofia}
+\APACinsertmetastar {%
+filosofia}%
+\begin{APACrefauthors}%
+Tatakis, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1952}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Los Siglos XI y XII} {Los siglos xi y xii}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Filosofía Bizantina} {Filosofía bizantina}\
+  (\BPG~139-212).
+\newblock
+\APACaddressPublisher{Buenos Aires}{Sudamericana}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
