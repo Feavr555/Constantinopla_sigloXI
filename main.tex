@@ -4,13 +4,31 @@
 \usepackage[utf8]{inputenc}
 \usepackage{times}
 \usepackage{graphicx}
-\usepackage{apacite}
 \usepackage{csquotes}
 \usepackage[T1]{fontenc}
+%\usepackage{apacite}
+%\usepackage[style=authoryear-ibid]{biblatex}
+\usepackage[style=verbose-ibid]{biblatex}
+\usepackage[hidelinks]{hyperref}
 \usepackage{anyfontsize}
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 
+% Deshabilitar el uso de citas abreviadas
+\DefineBibliographyStrings{spanish}{%
+  ibidem = {ibídem},
+  idem = {ídem},
+  loccit = {lugar citado},
+}
+
+
+%\hypersetup{draft=true,bookmarks=true,}
+\hypersetup{
+	linktoc=all,
+	hidelinks,
+	bookmarks=true,
+	linktocpage=false,
+}
 
 %\textbf{...}		-> negrita
 %\textit{...}		-> cursiva / italica
@@ -23,7 +41,8 @@
 %\lfoot[\thepage]{}
 %\rfoot[]{\thepage} 
 
-\bibliographystyle{apacite}
+%\bibliographystyle{apacite}
+\addbibresource{contexto/biblio.bib}
 
 \setcounter{secnumdepth}{0}
 %\setcounter{tocdepth}{1}
@@ -87,7 +106,8 @@
 \newpage
 
 \section{Bibliografía}
-\bibliography{contexto/biblio}
+%\bibliography{contexto/biblio}
+\printbibliography
 \newpage
 
 \setstretch{1.5}
