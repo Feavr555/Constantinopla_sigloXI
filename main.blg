@@ -1,56 +1,14 @@
-This is BibTeX, Version 0.99d (TeX Live 2024)
-Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: main.aux
-The style file: apacite.bst
-Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
-Reallocated global_strs (elt_size=200001) to 20 items from 10.
-Reallocated glb_str_end (elt_size=4) to 20 items from 10.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Database file #1: biblio.bib
-apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 3 entries,
-            6951 wiz_defined-function locations,
-            1289 strings with 10916 characters,
-and the built_in function-call counts, 4607 in all, are:
-= -- 605
-> -- 39
-< -- 153
-+ -- 133
-- -- 6
-* -- 232
-:= -- 736
-add.period$ -- 14
-call.type$ -- 3
-change.case$ -- 52
-chr.to.int$ -- 0
-cite$ -- 6
-duplicate$ -- 113
-empty$ -- 226
-format.name$ -- 42
-if$ -- 977
-int.to.chr$ -- 0
-int.to.str$ -- 9
-missing$ -- 0
-newline$ -- 71
-num.names$ -- 24
-pop$ -- 105
-preamble$ -- 1
-purify$ -- 12
-quote$ -- 0
-skip$ -- 386
-stack$ -- 0
-substring$ -- 169
-swap$ -- 79
-text.length$ -- 16
-text.prefix$ -- 0
-top$ -- 1
-type$ -- 304
-warning$ -- 0
-while$ -- 17
-width$ -- 0
-write$ -- 76
+[0] Config.pm:308> INFO - This is Biber 2.20
+[0] Config.pm:311> INFO - Logfile is 'main.blg'
+[107] biber:340> INFO - === sáb ago 17, 2024, 19:45:07
+[129] Biber.pm:420> INFO - Reading 'main.bcf'
+[269] Biber.pm:994> INFO - Found 5 citekeys in bib section 0
+[307] Biber.pm:4463> INFO - Processing section 0
+[327] Biber.pm:4654> INFO - Looking for bibtex file 'contexto/biblio.bib' for section 0
+[328] bibtex.pm:1713> INFO - LaTeX decoding ...
+[347] bibtex.pm:1519> INFO - Found BibTeX data source 'contexto/biblio.bib'
+[438] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[439] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[439] Biber.pm:4283> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'es-ES'
+[446] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[449] bbl.pm:779> INFO - Output to main.bbl

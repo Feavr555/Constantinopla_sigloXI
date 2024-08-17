@@ -41,7 +41,7 @@
   >
 ]>
 <requests version="1.0">
-  <internal package="biblatex" priority="9" active="1">
+  <internal package="biblatex" priority="9" active="0">
     <generic>latex</generic>
     <provides type="dynamic">
       <file>main.bcf</file>
@@ -54,17 +54,15 @@
       <file>blx-compat.def</file>
       <file>biblatex.def</file>
       <file>standard.bbx</file>
-      <file>standard-dw.bbx</file>
-      <file>authortitle-dw.bbx</file>
-      <file>footnote-dw.bbx</file>
-      <file>standard-dw.cbx</file>
-      <file>footnote-dw.cbx</file>
+      <file>authortitle.bbx</file>
+      <file>verbose-ibid.bbx</file>
+      <file>verbose-ibid.cbx</file>
       <file>biblatex.cfg</file>
       <file>spanish.lbx</file>
       <file>greek.lbx</file>
     </requires>
   </internal>
-  <external package="biblatex" priority="5" active="1">
+  <external package="biblatex" priority="5" active="0">
     <generic>biber</generic>
     <cmdline>
       <binary>biber</binary>
@@ -83,7 +81,7 @@
       <file>main.bcf</file>
     </requires>
     <requires type="editable">
-      <file>biblio</file>
+      <file>contexto/biblio.bib</file>
     </requires>
   </external>
 </requests>

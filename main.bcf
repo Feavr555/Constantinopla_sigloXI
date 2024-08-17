@@ -559,6 +559,7 @@
     <bcf:option datatype="string">datelabel</bcf:option>
     <bcf:option datatype="string">backrefstyle</bcf:option>
     <bcf:option datatype="string">arxiv</bcf:option>
+    <bcf:option datatype="string">citepages</bcf:option>
     <bcf:option datatype="boolean">familyinits</bcf:option>
     <bcf:option datatype="boolean">giveninits</bcf:option>
     <bcf:option datatype="boolean">prefixinits</bcf:option>
@@ -642,46 +643,8 @@
     <bcf:option datatype="boolean">doi</bcf:option>
     <bcf:option datatype="boolean">eprint</bcf:option>
     <bcf:option datatype="boolean">related</bcf:option>
-    <bcf:option datatype="boolean">acronyms</bcf:option>
-    <bcf:option datatype="boolean">shorthandinbib</bcf:option>
-    <bcf:option datatype="boolean">shorthandwidth</bcf:option>
-    <bcf:option datatype="boolean">shortjournal</bcf:option>
-    <bcf:option datatype="boolean">terselos</bcf:option>
-    <bcf:option datatype="boolean">xref</bcf:option>
-    <bcf:option datatype="boolean">pagetotal</bcf:option>
-    <bcf:option datatype="boolean">journalnumber</bcf:option>
-    <bcf:option datatype="boolean">bernhard</bcf:option>
-    <bcf:option datatype="boolean">series</bcf:option>
-    <bcf:option datatype="boolean">seriesformat</bcf:option>
-    <bcf:option datatype="boolean">annotation</bcf:option>
-    <bcf:option datatype="boolean">edbyidem</bcf:option>
-    <bcf:option datatype="boolean">editionstring</bcf:option>
-    <bcf:option datatype="boolean">edsuper</bcf:option>
-    <bcf:option datatype="boolean">idembib</bcf:option>
-    <bcf:option datatype="boolean">library</bcf:option>
-    <bcf:option datatype="boolean">nolocation</bcf:option>
-    <bcf:option datatype="boolean">nopublisher</bcf:option>
-    <bcf:option datatype="boolean">oldauthor</bcf:option>
-    <bcf:option datatype="boolean">origfields</bcf:option>
-    <bcf:option datatype="boolean">pseudoauthor</bcf:option>
-    <bcf:option datatype="boolean">origfieldsformat</bcf:option>
-    <bcf:option datatype="boolean">namefont</bcf:option>
-    <bcf:option datatype="boolean">firstnamefont</bcf:option>
-    <bcf:option datatype="boolean">idemfont</bcf:option>
-    <bcf:option datatype="boolean">ibidemfont</bcf:option>
-    <bcf:option datatype="boolean">idembibformat</bcf:option>
-    <bcf:option datatype="boolean">editorstring</bcf:option>
-    <bcf:option datatype="boolean">editorstringfont</bcf:option>
-    <bcf:option datatype="boolean">citedas</bcf:option>
-    <bcf:option datatype="boolean">edstringincitations</bcf:option>
-    <bcf:option datatype="boolean">omiteditor</bcf:option>
-    <bcf:option datatype="boolean">shorthandibid</bcf:option>
-    <bcf:option datatype="boolean">citeauthor</bcf:option>
-    <bcf:option datatype="boolean">citeauthorname</bcf:option>
-    <bcf:option datatype="boolean">firstfullname</bcf:option>
+    <bcf:option datatype="boolean">dashed</bcf:option>
     <bcf:option datatype="boolean">ibidpage</bcf:option>
-    <bcf:option datatype="boolean">pageref</bcf:option>
-    <bcf:option datatype="boolean">citepages</bcf:option>
     <bcf:option datatype="boolean">bibtexcaseprotection</bcf:option>
     <bcf:option datatype="integer">mincrossrefs</bcf:option>
     <bcf:option datatype="integer">minxrefs</bcf:option>
@@ -851,13 +814,6 @@
     <bcf:option datatype="boolean" backendout="1">doi</bcf:option>
     <bcf:option datatype="boolean" backendout="1">eprint</bcf:option>
     <bcf:option datatype="boolean" backendout="1">related</bcf:option>
-    <bcf:option datatype="boolean" backendout="1">acronym</bcf:option>
-    <bcf:option datatype="boolean" backendout="1">idembib</bcf:option>
-    <bcf:option datatype="boolean" backendout="1">oldbookauthor</bcf:option>
-    <bcf:option datatype="boolean" backendout="1">oldauthor</bcf:option>
-    <bcf:option datatype="boolean" backendout="1">pseudoauthor</bcf:option>
-    <bcf:option datatype="boolean" backendout="1">citedas</bcf:option>
-    <bcf:option datatype="boolean" backendout="1">shorthandibid</bcf:option>
     <bcf:option datatype="boolean" backendout="1">bibtexcaseprotection</bcf:option>
     <bcf:option datatype="integer" backendin="maxcitenames,maxbibnames,maxsortnames">maxnames</bcf:option>
     <bcf:option datatype="integer" backendin="mincitenames,minbibnames,minsortnames">minnames</bcf:option>
@@ -2413,11 +2369,28 @@
   <!-- CITATION DATA -->
   <!-- SECTION 0 -->
   <bcf:bibdata section="0">
-    <bcf:datasource type="file" datatype="bibtex" glob="false">biblio</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">contexto/biblio.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="1" intorder="1">filosofia</bcf:citekey>
     <bcf:citekey order="2" intorder="1">filosofia</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">filosofia</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">filosofia</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">filosofia</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">filosofia</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">filosofia</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">filosofia</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">filosofia</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">filosofia</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">filosofia</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">filosofia</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">alexiadaVI</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">alexiadaVI</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">venecia</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">alexiadaV</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">ciudad</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">ciudad</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">ciudad</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
@@ -2449,4 +2422,14 @@
     </bcf:sort>
   </bcf:sortingtemplate>
   <!-- DATALISTS -->
+  <bcf:datalist section="0"
+                name="nty/global//global/global/global"
+                type="entry"
+                sortingtemplatename="nty"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global"
+                namehashtemplatename="global">
+  </bcf:datalist>
 </bcf:controlfile>

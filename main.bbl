@@ -1,74 +1,205 @@
-\begin{thebibliography}{}
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
 
-\bibitem [\protect \citeauthoryear {%
-Comnena%
-}{%
-Comnena%
-}{%
-{\protect \APACyear {2016}}%
-}]{%
-alexiadaVI}
-\APACinsertmetastar {%
-alexiadaVI}%
-\begin{APACrefauthors}%
-Comnena, A.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYear{2016}.
-\newblock
-\APACrefbtitle {La Alexiada} {La alexiada}\ (\BVOL~VI).
-\newblock
-\APACaddressPublisher{Barcelona}{Ático de los libros}.
-\PrintBackRefs{\CurrentBib}
 
-\bibitem [\protect \citeauthoryear {%
-Crowley%
-}{%
-Crowley%
-}{%
-{\protect \APACyear {2016}}%
-}]{%
-venecia}
-\APACinsertmetastar {%
-venecia}%
-\begin{APACrefauthors}%
-Crowley, R.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYear{2016}.
-\newblock
-\APACrefbtitle {Venecia: Ciudad de fortuna, auge y caída del imperio naval
-  veneciano} {Venecia: Ciudad de fortuna, auge y caída del imperio naval
-  veneciano}.
-\newblock
-\APACaddressPublisher{Barcelona}{Ático de los libros}.
-\PrintBackRefs{\CurrentBib}
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{ciudad}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=0a42baf2da287200c4600cec994df6f7}{%
+           family={Bouchet},
+           familyi={B\bibinitperiod},
+           given={Rubén\bibnamedelima Calderón},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {Ciudad Argentina}%
+      }
+      \strng{namehash}{0a42baf2da287200c4600cec994df6f7}
+      \strng{fullhash}{0a42baf2da287200c4600cec994df6f7}
+      \strng{fullhashraw}{0a42baf2da287200c4600cec994df6f7}
+      \strng{bibnamehash}{0a42baf2da287200c4600cec994df6f7}
+      \strng{authorbibnamehash}{0a42baf2da287200c4600cec994df6f7}
+      \strng{authornamehash}{0a42baf2da287200c4600cec994df6f7}
+      \strng{authorfullhash}{0a42baf2da287200c4600cec994df6f7}
+      \strng{authorfullhashraw}{0a42baf2da287200c4600cec994df6f7}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{La Ciudad Cristiana}
+      \field{year}{1998}
+    \endentry
+    \entry{alexiadaV}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=49f9db3351dbc3cf985a90598c96658d}{%
+           family={Comnena},
+           familyi={C\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=4a2934df5d06ad8ae66b5423b37cd75c}{%
+           family={Ronaldo},
+           familyi={R\bibinitperiod},
+           given={Emilio\bibnamedelima Díaz},
+           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Barcelona}%
+      }
+      \list{publisher}{1}{%
+        {Ático de los libros}%
+      }
+      \strng{namehash}{49f9db3351dbc3cf985a90598c96658d}
+      \strng{fullhash}{49f9db3351dbc3cf985a90598c96658d}
+      \strng{fullhashraw}{49f9db3351dbc3cf985a90598c96658d}
+      \strng{bibnamehash}{49f9db3351dbc3cf985a90598c96658d}
+      \strng{authorbibnamehash}{49f9db3351dbc3cf985a90598c96658d}
+      \strng{authornamehash}{49f9db3351dbc3cf985a90598c96658d}
+      \strng{authorfullhash}{49f9db3351dbc3cf985a90598c96658d}
+      \strng{authorfullhashraw}{49f9db3351dbc3cf985a90598c96658d}
+      \strng{translatorbibnamehash}{4a2934df5d06ad8ae66b5423b37cd75c}
+      \strng{translatornamehash}{4a2934df5d06ad8ae66b5423b37cd75c}
+      \strng{translatorfullhash}{4a2934df5d06ad8ae66b5423b37cd75c}
+      \strng{translatorfullhashraw}{4a2934df5d06ad8ae66b5423b37cd75c}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{La Alexiada}
+      \field{volume}{V}
+      \field{year}{2016}
+      \field{pages}{209\bibrangedash 240}
+      \range{pages}{32}
+    \endentry
+    \entry{alexiadaVI}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=49f9db3351dbc3cf985a90598c96658d}{%
+           family={Comnena},
+           familyi={C\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=4a2934df5d06ad8ae66b5423b37cd75c}{%
+           family={Ronaldo},
+           familyi={R\bibinitperiod},
+           given={Emilio\bibnamedelima Díaz},
+           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Barcelona}%
+      }
+      \list{publisher}{1}{%
+        {Ático de los libros}%
+      }
+      \strng{namehash}{49f9db3351dbc3cf985a90598c96658d}
+      \strng{fullhash}{49f9db3351dbc3cf985a90598c96658d}
+      \strng{fullhashraw}{49f9db3351dbc3cf985a90598c96658d}
+      \strng{bibnamehash}{49f9db3351dbc3cf985a90598c96658d}
+      \strng{authorbibnamehash}{49f9db3351dbc3cf985a90598c96658d}
+      \strng{authornamehash}{49f9db3351dbc3cf985a90598c96658d}
+      \strng{authorfullhash}{49f9db3351dbc3cf985a90598c96658d}
+      \strng{authorfullhashraw}{49f9db3351dbc3cf985a90598c96658d}
+      \strng{translatorbibnamehash}{4a2934df5d06ad8ae66b5423b37cd75c}
+      \strng{translatornamehash}{4a2934df5d06ad8ae66b5423b37cd75c}
+      \strng{translatorfullhash}{4a2934df5d06ad8ae66b5423b37cd75c}
+      \strng{translatorfullhashraw}{4a2934df5d06ad8ae66b5423b37cd75c}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{La Alexiada}
+      \field{volume}{VI}
+      \field{year}{2016}
+      \field{pages}{249\bibrangedash 253}
+      \range{pages}{5}
+    \endentry
+    \entry{venecia}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=aa193656fd5fd587b40102ea2c92d367}{%
+           family={Crowley},
+           familyi={C\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Barcelona}%
+      }
+      \list{publisher}{1}{%
+        {Ático de los libros}%
+      }
+      \strng{namehash}{aa193656fd5fd587b40102ea2c92d367}
+      \strng{fullhash}{aa193656fd5fd587b40102ea2c92d367}
+      \strng{fullhashraw}{aa193656fd5fd587b40102ea2c92d367}
+      \strng{bibnamehash}{aa193656fd5fd587b40102ea2c92d367}
+      \strng{authorbibnamehash}{aa193656fd5fd587b40102ea2c92d367}
+      \strng{authornamehash}{aa193656fd5fd587b40102ea2c92d367}
+      \strng{authorfullhash}{aa193656fd5fd587b40102ea2c92d367}
+      \strng{authorfullhashraw}{aa193656fd5fd587b40102ea2c92d367}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Venecia: Ciudad de fortuna, auge y caída del imperio naval veneciano}
+      \field{year}{2016}
+      \field{pages}{39\bibrangedash 40}
+      \range{pages}{2}
+    \endentry
+    \entry{filosofia}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=97ca3ff200201514475294014240c7ee}{%
+           family={Tatakis},
+           familyi={T\bibinitperiod},
+           given={Basilio},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {Sudamericana}%
+      }
+      \strng{namehash}{97ca3ff200201514475294014240c7ee}
+      \strng{fullhash}{97ca3ff200201514475294014240c7ee}
+      \strng{fullhashraw}{97ca3ff200201514475294014240c7ee}
+      \strng{bibnamehash}{97ca3ff200201514475294014240c7ee}
+      \strng{authorbibnamehash}{97ca3ff200201514475294014240c7ee}
+      \strng{authornamehash}{97ca3ff200201514475294014240c7ee}
+      \strng{authorfullhash}{97ca3ff200201514475294014240c7ee}
+      \strng{authorfullhashraw}{97ca3ff200201514475294014240c7ee}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Filosofía Bizantina}
+      \field{volume}{Los Siglos XI y XII}
+      \field{year}{1952}
+      \field{pages}{139\bibrangedash 212}
+      \range{pages}{74}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
 
-\bibitem [\protect \citeauthoryear {%
-Tatakis%
-}{%
-Tatakis%
-}{%
-{\protect \APACyear {1952}}%
-}]{%
-filosofia}
-\APACinsertmetastar {%
-filosofia}%
-\begin{APACrefauthors}%
-Tatakis, B.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1952}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Los Siglos XI y XII} {Los siglos xi y xii}.{\BBCQ}
-\newblock
-\BIn{} \APACrefbtitle {Filosofía Bizantina} {Filosofía bizantina}\
-  (\BPG~139-212).
-\newblock
-\APACaddressPublisher{Buenos Aires}{Sudamericana}.
-\PrintBackRefs{\CurrentBib}
-
-\end{thebibliography}
