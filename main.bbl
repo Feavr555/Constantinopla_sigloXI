@@ -136,6 +136,50 @@
       \field{pages}{249\bibrangedash 253}
       \range{pages}{5}
     \endentry
+    \entry{alexiadaX}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=49f9db3351dbc3cf985a90598c96658d}{%
+           family={Comnena},
+           familyi={C\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=4a2934df5d06ad8ae66b5423b37cd75c}{%
+           family={Ronaldo},
+           familyi={R\bibinitperiod},
+           given={Emilio\bibnamedelima Díaz},
+           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Barcelona}%
+      }
+      \list{publisher}{1}{%
+        {Ático de los libros}%
+      }
+      \strng{namehash}{49f9db3351dbc3cf985a90598c96658d}
+      \strng{fullhash}{49f9db3351dbc3cf985a90598c96658d}
+      \strng{fullhashraw}{49f9db3351dbc3cf985a90598c96658d}
+      \strng{bibnamehash}{49f9db3351dbc3cf985a90598c96658d}
+      \strng{authorbibnamehash}{49f9db3351dbc3cf985a90598c96658d}
+      \strng{authornamehash}{49f9db3351dbc3cf985a90598c96658d}
+      \strng{authorfullhash}{49f9db3351dbc3cf985a90598c96658d}
+      \strng{authorfullhashraw}{49f9db3351dbc3cf985a90598c96658d}
+      \strng{translatorbibnamehash}{4a2934df5d06ad8ae66b5423b37cd75c}
+      \strng{translatornamehash}{4a2934df5d06ad8ae66b5423b37cd75c}
+      \strng{translatorfullhash}{4a2934df5d06ad8ae66b5423b37cd75c}
+      \strng{translatorfullhashraw}{4a2934df5d06ad8ae66b5423b37cd75c}
+      \field{extraname}{3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{La Alexiada}
+      \field{volume}{X}
+      \field{year}{2016}
+      \field{pages}{373\bibrangedash 391}
+      \range{pages}{19}
+    \endentry
     \entry{venecia}{book}{}{}
       \name{author}{1}{}{%
         {{hash=aa193656fd5fd587b40102ea2c92d367}{%
