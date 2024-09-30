@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.8)  18 AUG 2024 15:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.8)  29 SEP 2024 22:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -990,7 +990,7 @@ Package hyperref Info: Link coloring OFF on input line 59.
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
-<ico.png, id=152, 829.0975pt x 1284.8pt>
+<ico.png, id=156, 829.0975pt x 1284.8pt>
 File: ico.png Graphic file (type png)
 <use ico.png>
 Package pdftex.def Info: ico.png  used on input line 65.
@@ -1129,7 +1129,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.58502pt}.
 
-[8] (./educacion/emperador.tex))
+[8] (./educacion/emperador.tex
+
+LaTeX Info: Redefining \sptext on input line 22.
+LaTeX Info: Redefining \. on input line 22.
+LaTeX Info: Redefining \% on input line 22.
+LaTeX Info: Redefining \sptext on input line 22.
+LaTeX Info: Redefining \. on input line 22.
+LaTeX Info: Redefining \% on input line 22.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.58502pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.58502pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.58502pt}.
+
+[9]))
 
 LaTeX Info: Redefining \sptext on input line 94.
 LaTeX Info: Redefining \. on input line 94.
@@ -1145,8 +1161,40 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.58502pt}.
 
-[9] (./salud/salud.tex)
+[10] (./salud/salud.tex
 
+LaTeX Info: Redefining \sptext on input line 64.
+LaTeX Info: Redefining \. on input line 64.
+LaTeX Info: Redefining \% on input line 64.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.58502pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.58502pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.58502pt}.
+
+[11]
+
+LaTeX Info: Redefining \sptext on input line 120.
+LaTeX Info: Redefining \. on input line 120.
+LaTeX Info: Redefining \% on input line 120.
+LaTeX Info: Redefining \sptext on input line 120.
+LaTeX Info: Redefining \. on input line 120.
+LaTeX Info: Redefining \% on input line 120.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.58502pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.58502pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.58502pt}.
+
+[12])
+
+LaTeX Info: Redefining \sptext on input line 98.
+LaTeX Info: Redefining \. on input line 98.
+LaTeX Info: Redefining \% on input line 98.
 LaTeX Info: Redefining \sptext on input line 98.
 LaTeX Info: Redefining \. on input line 98.
 LaTeX Info: Redefining \% on input line 98.
@@ -1158,7 +1206,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.58502pt}.
 
-[10] (./politica/politica.tex (./politica/italia.tex
+[13] (./politica/politica.tex (./politica/italia.tex
 
 LaTeX Info: Redefining \sptext on input line 57.
 LaTeX Info: Redefining \. on input line 57.
@@ -1171,62 +1219,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.58502pt}.
 
-[11]
-
-LaTeX Info: Redefining \sptext on input line 130.
-LaTeX Info: Redefining \. on input line 130.
-LaTeX Info: Redefining \% on input line 130.
-LaTeX Info: Redefining \sptext on input line 130.
-LaTeX Info: Redefining \. on input line 130.
-LaTeX Info: Redefining \% on input line 130.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 12.58502pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.58502pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.58502pt}.
-
-[12]) (./politica/sacro_imperio.tex
-
-LaTeX Info: Redefining \sptext on input line 21.
-LaTeX Info: Redefining \. on input line 21.
-LaTeX Info: Redefining \% on input line 21.
-LaTeX Info: Redefining \sptext on input line 21.
-LaTeX Info: Redefining \. on input line 21.
-LaTeX Info: Redefining \% on input line 21.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 12.58502pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.58502pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.58502pt}.
-
-[13]
-
-LaTeX Info: Redefining \sptext on input line 69.
-LaTeX Info: Redefining \. on input line 69.
-LaTeX Info: Redefining \% on input line 69.
-LaTeX Info: Redefining \sptext on input line 69.
-LaTeX Info: Redefining \. on input line 69.
-LaTeX Info: Redefining \% on input line 69.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 12.58502pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.58502pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.58502pt}.
-
 [14]
 
-LaTeX Info: Redefining \sptext on input line 133.
-LaTeX Info: Redefining \. on input line 133.
-LaTeX Info: Redefining \% on input line 133.
-LaTeX Info: Redefining \sptext on input line 133.
-LaTeX Info: Redefining \. on input line 133.
-LaTeX Info: Redefining \% on input line 133.
+LaTeX Info: Redefining \sptext on input line 131.
+LaTeX Info: Redefining \. on input line 131.
+LaTeX Info: Redefining \% on input line 131.
+LaTeX Info: Redefining \sptext on input line 131.
+LaTeX Info: Redefining \. on input line 131.
+LaTeX Info: Redefining \% on input line 131.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 12.58502pt, for example:
@@ -1235,7 +1235,55 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.58502pt}.
 
-[15]) (./politica/danuvio.tex) (./politica/cruzada.tex))
+[15]) (./politica/sacro_imperio.tex
+
+LaTeX Info: Redefining \sptext on input line 21.
+LaTeX Info: Redefining \. on input line 21.
+LaTeX Info: Redefining \% on input line 21.
+LaTeX Info: Redefining \sptext on input line 21.
+LaTeX Info: Redefining \. on input line 21.
+LaTeX Info: Redefining \% on input line 21.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.58502pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.58502pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.58502pt}.
+
+[16]
+
+LaTeX Info: Redefining \sptext on input line 74.
+LaTeX Info: Redefining \. on input line 74.
+LaTeX Info: Redefining \% on input line 74.
+LaTeX Info: Redefining \sptext on input line 74.
+LaTeX Info: Redefining \. on input line 74.
+LaTeX Info: Redefining \% on input line 74.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.58502pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.58502pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.58502pt}.
+
+[17]
+
+LaTeX Info: Redefining \sptext on input line 139.
+LaTeX Info: Redefining \. on input line 139.
+LaTeX Info: Redefining \% on input line 139.
+LaTeX Info: Redefining \sptext on input line 139.
+LaTeX Info: Redefining \. on input line 139.
+LaTeX Info: Redefining \% on input line 139.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.58502pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.58502pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.58502pt}.
+
+[18]) (./politica/danuvio.tex) (./politica/cruzada.tex))
 
 LaTeX Info: Redefining \sptext on input line 102.
 LaTeX Info: Redefining \. on input line 102.
@@ -1251,7 +1299,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.58502pt}.
 
-[16] (./contexto/conclusion.tex)
+[19] (./contexto/conclusion.tex)
 
 LaTeX Info: Redefining \sptext on input line 106.
 LaTeX Info: Redefining \. on input line 106.
@@ -1264,12 +1312,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.58502pt}.
 
-[17]
+[20]
 
 LaTeX Info: Redefining \sptext on input line 111.
 LaTeX Info: Redefining \. on input line 111.
 LaTeX Info: Redefining \% on input line 111.
-[18] (./main.toc
+[21] (./main.toc
 LaTeX Info: Redefining \sptext on input line 1.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
@@ -1295,7 +1343,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.58502pt}.
 
-[19])
+[22])
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
@@ -1315,7 +1363,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.58502pt}.
 
-[20] (./main.aux
+[23] (./main.aux
 LaTeX Info: Redefining \sptext on input line 12.
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
@@ -1335,7 +1383,7 @@ L3 programming layer <2024-05-27>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 5DA212528388B9A77BAC32F542098170;4971.
+(rerunfilecheck)             Checksum: DF55C14AC6F1337935149A8F802BF253;5216.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
@@ -1345,22 +1393,22 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 ### semi simple group (level 1) entered at line 71 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 20439 strings out of 473584
- 360947 string characters out of 5728335
+ 20463 strings out of 473584
+ 361340 string characters out of 5728335
  1937905 words of memory out of 5000000
- 42963 multiletter control sequences out of 15000+600000
+ 42975 multiletter control sequences out of 15000+600000
  597088 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,12n,86p,693b,4718s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 66i,12n,86p,693b,4716s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/cbfonts/
 grmn1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.p
 fb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/l
 ocal/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texli
 ve/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (21 pages, 596810 bytes).
+Output written on main.pdf (24 pages, 604674 bytes).
 PDF statistics:
- 405 PDF objects out of 1000 (max. 8388607)
- 367 compressed objects within 4 object streams
- 94 named destinations out of 1000 (max. 500000)
- 302 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 444 PDF objects out of 1000 (max. 8388607)
+ 402 compressed objects within 5 object streams
+ 106 named destinations out of 1000 (max. 500000)
+ 310 words of extra memory for PDF output out of 10000 (max. 10000000)
 
